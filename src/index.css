@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ---- google font (Inter) ---- */
+@font-face {
+  font-family: "Inter";
+  src: url("./assets/font/Inter.ttf") format("TrueType");
+}
+
+* {
+  font-family: "Inter", sans-serif;
+}
