@@ -1,3 +1,8 @@
+:root {
+  --color-white: #fff;
+  --color-milky: #fffbf5;
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -7,7 +12,25 @@
   font-family: "Inter";
   src: url("./assets/font/Inter.ttf") format("TrueType");
 }
+/* ---- persian font (Yekan) ---- */
+@font-face {
+  font-family: "Yekan";
+  src: url("./assets/font/YekanBakhFaNum-Regular.ttf") format("TrueType"),
+    url("./assets/font/YekanBakhFaNum-Regular.woff") format("woff");
+}
 
-* {
+:lang(en) {
   font-family: "Inter", sans-serif;
+}
+:lang(fa) {
+  font-family: "Yekan", sans-serif;
+}
+
+body {
+  background: linear-gradient(
+    to right,
+    var(--color-milky),
+    var(--color-white),
+    var(--color-milky)
+  );
 }
