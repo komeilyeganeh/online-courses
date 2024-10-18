@@ -1,6 +1,6 @@
 :root {
   --color-white: #fff;
-  --color-milky: #fffbf5;
+  --color-milky: #FEF2F4;
 }
 
 @tailwind base;
@@ -30,6 +30,7 @@ body {
   background: linear-gradient(
     to right,
     var(--color-milky),
+    var(--color-white),
     var(--color-white),
     var(--color-milky)
   );

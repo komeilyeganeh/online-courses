@@ -6,7 +6,7 @@ export const Logo: React.FC = () => {
   return (
     <Link to="/" className="flex items-center gap-x-2">
       <img src={LogoPng} alt="logo image" />
-      <Text className="uppercase text-red-600">
+      <Text className="uppercase text-red-600 font-bold">
         on{" "}
         <Text as="span" className="text-purple-600">
           courses

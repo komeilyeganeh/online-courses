@@ -8,6 +8,9 @@ export default {
     extend: {
       container: {
         center: true
+      },
+      backgroundImage: {
+        "purple-gradient": "linear-gradient(to right, #020024, #090979)"
       }
     },
   },

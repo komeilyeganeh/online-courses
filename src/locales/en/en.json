@@ -1,3 +1,22 @@
 {
-    "hello": "hello"
+  "navbar": {
+    "home": "Home",
+    "courses": "Courses",
+    "blog": "Blog",
+    "about": "About"
+  },
+  "language": {
+    "en": "English",
+    "tr": "Turkish",
+    "fa": "Persian"
+  },
+  "hero_section": {
+    "education_solution": "Education Solution",
+    "description": "Cloud-based LMS Trusted by 1000+",
+    "sub_description": "Lorem Ipsum is simply dummy text of the printing typesetting industry. Lorem Ipsum has been"
+  },
+  "button": {
+    "view_courses": "View Courses"
+  },
+  "login_signup": "Login / Signup"
 }
