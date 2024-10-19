@@ -18,5 +18,13 @@
   "button": {
     "view_courses": "View Courses"
   },
+  "about": {
+    "title": "About Us",
+    "sub_title": "Welcome to the Online Learning Center",
+    "description": "25+Contrary to popular belief, Lorem Ipsum is not simply random text roots in a piece of classical Latin literature from 45 BC",
+    "desc_one": "Lorem Ipsum is simply dummy",
+    "desc_two": "Explore a variety of fresh educational teach",
+    "desc_three": "Lorem Ipsum is simply dummy text of"
+  },
   "login_signup": "Login / Signup"
 }

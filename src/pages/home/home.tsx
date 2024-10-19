@@ -1,3 +1,4 @@
+import { AboutSection } from "./sections/about/about";
 import { BrandSection } from "./sections/brand/brand";
 import { HeroSection } from "./sections/hero/hero";
 
@@ -7,6 +8,7 @@ export const Home: React.FC = () => {
     <>
       <HeroSection />
       <BrandSection />
+      <AboutSection />
     </>
   );
 };
