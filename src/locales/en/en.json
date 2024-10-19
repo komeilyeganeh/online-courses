@@ -16,7 +16,10 @@
     "sub_description": "Lorem Ipsum is simply dummy text of the printing typesetting industry. Lorem Ipsum has been"
   },
   "button": {
-    "view_courses": "View Courses"
+    "view_courses": "View Courses",
+    "explore_more": "Explore More",
+    "sign_up": "Sign Up",
+    "subscribe": "Subscribe now"
   },
   "about": {
     "title": "About Us",
@@ -26,5 +29,53 @@
     "desc_two": "Explore a variety of fresh educational teach",
     "desc_three": "Lorem Ipsum is simply dummy text of"
   },
-  "login_signup": "Login / Signup"
+  "login_signup": "Login / Signup",
+  "statistics": {
+    "total_acheivment": "Total Acheivment",
+    "total_students": "Total Students",
+    "total_instructor": "Total Instructor",
+    "over_the_world": "Over The World"
+  },
+  "popular_subject": {
+    "title": "Popular Subject",
+    "sub_title": "Provide It & Technology Subject For You",
+    "description": "Construction is a general term meaning the art and science to form systems organizations, and comes from Latin Construction is",
+    "sub_desc": "Construction is a general term meaning the art and science to form systems organizations, and comes from Latin Construction is a organizations, and comes from Latin construction and Old",
+    "view_subject": "View subject",
+    "business_studies": "Business Studies",
+    "artist_design": "Artist Design",
+    "machine_learning": "Machine Learning",
+    "card_desc": "Construction is a general term the art and science to form"
+  },
+  "course_list": {
+    "title": "Course List",
+    "desc": "Perfect Online Course Your Carrer",
+    "lesson": "Lesson",
+    "time": "Time",
+    "free": "Free"
+  },
+  "tabs": {
+    "see_all": "See All",
+    "data_science": "Data Science",
+    "engineering": "Engineering",
+    "featured": "Featured",
+    "architecture": "Architecture"
+  },
+  "registration_section": {
+    "title": "Registration",
+    "sub_title": "Register Your Account Get free access to 60000 online course",
+    "form": {
+      "title": "Fill Your Registration"
+    }
+  },
+  "input": {
+    "your_name": "Your Name",
+    "email": "Email",
+    "phone": "Phone Number",
+    "address": "Address"
+  },
+  "footer": {
+    "title": "Still You Need Our Support ?",
+    "sub_title": "Don’t wait make a smart & logical quote here. Its pretty easy."
+  }
 }

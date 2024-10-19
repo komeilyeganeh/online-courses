@@ -9,7 +9,7 @@ export const Button: React.FC<ButtonProps> = ({
 }) => {
     // ---- jsx return ----
   return as === "link" ? (
-    <Link to={href} className={`py-2 px-3 ${className}`}>
+    <Link to={href} className={`py-2 px-3 duration-150 ${className}`}>
       {children}
     </Link>
   ) : as === "button" ? (

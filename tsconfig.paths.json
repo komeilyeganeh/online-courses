@@ -4,7 +4,8 @@
     "paths": {
       "@components": ["components/index.ts"],
       "@images": ["assets/images"],
-      "@pages": ["pages"]
+      "@pages": ["pages"],
+      "@data": ["data"]
     }
   }
 }

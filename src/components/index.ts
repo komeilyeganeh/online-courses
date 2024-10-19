@@ -4,4 +4,7 @@ export * from "./text/text";
 export * from "./navbar/navbar";
 export * from "./button/button";
 export * from "./language/language";
-export * from "./badge/badge"
+export * from "./badge/badge";
+export * from "./card/card";
+export * from "./input/input"
+export * from "./footer/footer"

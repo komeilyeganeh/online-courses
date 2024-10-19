@@ -28,7 +28,7 @@
 
 body {
   background: linear-gradient(
-    to right,
+    90deg,
     var(--color-milky),
     var(--color-white),
     var(--color-white),

@@ -24,7 +24,7 @@ export const AboutSection: React.FC = () => {
         </div>
         <div className="w-1/2 p-5 flex flex-col justify-between">
           <div className="flex flex-col items-start gap-y-8">
-            <Badge className="bg-red-100 text-red-600">
+            <Badge>
               {t("about.title")}
             </Badge>
             <Text as="h3" className="text-4xl font-bold">
